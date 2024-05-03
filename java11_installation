@@ -1,0 +1,3 @@
+sudo yum install java-11-amazon-corretto-devel -y #install java11
+  
+sudo alternatives --config java # selection of default version if more than 1 version is present
